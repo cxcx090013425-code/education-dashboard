@@ -1,0 +1,14 @@
+[
+  {
+    "id": "example-001",
+    "title": "卡片标题",
+    "badge": "hot|new|policy|product|market|opportunity",
+    "desc": "50-80字的内容描述，简洁有力",
+    "source_name": "来源平台名",
+    "source_url": "https://真实有效链接",
+    "verified": true,
+    "tab": "dashboard|opensource|domestic|international|business|insights",
+    "content_type": "human|ai_assisted|ai_generated",
+    "notes": "Tellus 的判断或补充说明（可选）"
+  }
+]
